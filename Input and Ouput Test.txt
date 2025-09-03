@@ -1,0 +1,22 @@
+Input and Ouput Test
+
+
+Welcome to car selection app
+Enter the type of vehicle (car, truck, plane, boat, broomstick):  car
+Enter the year:  2022
+Enter the make:  Toyota
+Enter the model:  Camry
+Enter the number of doors (2 or 4):  3
+Invalid input. Please enter 2 or 4.
+Enter the number of doors (2 or 4):  2
+Enter the type of roof (solid or sun roof):  solidd
+Invalid input. Please enter 'solid' or 'sun roof'.
+Enter the type of roof (solid or sun roof):  solid
+
+Here is the information about your vehicle:
+  Vehicle type: car
+  Year: 2022
+  Make: Toyota
+  Model: Camry
+  Number of doors: 2
+  Type of roof: solid
